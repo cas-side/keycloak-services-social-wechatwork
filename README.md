@@ -19,6 +19,13 @@ Keycloak企业微信登录插件
 
 基于 https://github.com/kkzxak47/keycloak-services-social-wechatwork
 
+## 配置
+
+| key | value |
+| --- | --- |
+| First Login Flow  | first broker login |
+| Post Login Flow  | 空 |
+
 ## 注意
 
 - 原项目和本项目的区别，需要把 `jboss-deployment-structure.xml` 放到 `META-INF` 目录下
